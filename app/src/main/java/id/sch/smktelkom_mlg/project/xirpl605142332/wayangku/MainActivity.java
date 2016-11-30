@@ -6,6 +6,7 @@ import android.app.FragmentTransaction;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
+import android.support.v4.view.ViewPager;
 import android.support.v4.widget.DrawerLayout;
 import android.support.v7.app.ActionBarDrawerToggle;
 import android.support.v7.app.AppCompatActivity;
@@ -15,6 +16,9 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
+
+    ViewPager viewPager;
+    CustomAdapter adapter;
 
     Toolbar toolbar;
     DrawerLayout drawer;
@@ -27,8 +31,14 @@ public class MainActivity extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        viewPager = (ViewPager) findViewById(R.id.view_pager);
+        adapter = new CustomAdapter(this);
+        viewPager.setAdapter(adapter);
+
+
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
 
         drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
@@ -48,6 +58,7 @@ public class MainActivity extends AppCompatActivity
         }
 
     }
+
 
     @Override
     public void onBackPressed() {
@@ -118,5 +129,6 @@ public class MainActivity extends AppCompatActivity
         fragmentTransaction.replace(R.id.frame_container, fragment);
         fragmentTransaction.commit();
     }
+
 
 }
