@@ -2,6 +2,7 @@ package id.sch.smktelkom_mlg.project.xirpl605142332.wayangku;
 
 import android.app.Fragment;
 import android.os.Bundle;
+import android.support.v4.view.ViewPager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,6 +12,9 @@ import android.view.ViewGroup;
  */
 
 public class Root extends Fragment {
+
+    ViewPager viewPager;
+    CustomAdapter adapter;
 
     View rootView;
 
@@ -23,7 +27,9 @@ public class Root extends Fragment {
 
         rootView = inflater.inflate(R.layout.root, container, false);
 
-        getActivity().setTitle("Wayangku");
+        viewPager = (ViewPager) rootView.findViewById(R.id.view_pager);
+        adapter = new CustomAdapter(getActivity());
+        viewPager.setAdapter(adapter);
 
         return rootView;
     }
