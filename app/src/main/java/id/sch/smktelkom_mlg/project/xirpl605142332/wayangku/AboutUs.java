@@ -13,10 +13,13 @@ import android.widget.RelativeLayout;
  */
 public class AboutUs extends Fragment {
 
+
     RelativeLayout view;
+
 
     public AboutUs() {
     }
+
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -27,6 +30,10 @@ public class AboutUs extends Fragment {
         getActivity().setTitle("About Us");
 
         return view;
+
+
     }
+
+
 }
 

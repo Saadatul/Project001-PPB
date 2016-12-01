@@ -6,6 +6,7 @@ import android.support.v4.view.ViewPager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.RelativeLayout;
 
 /**
  * Created by -asus- on 11/17/2016.
@@ -17,6 +18,7 @@ public class Root extends Fragment {
     CustomAdapter adapter;
 
     View rootView;
+    RelativeLayout view;
 
     public Root() {
     }
@@ -33,4 +35,6 @@ public class Root extends Fragment {
 
         return rootView;
     }
+
+
 }
