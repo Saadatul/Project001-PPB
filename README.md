@@ -1,9 +1,13 @@
 # Wayangku 
-Wayangku adalah aplikasi yang berisi informasi tentang wayang, yaitu : <br>
+Wayangku adalah aplikasi yang berisi informasi tentang wayang di Indonesia. Pada halaman awal ketika kita membuka aplikasi kita akan disuguhkan dengan bermacam gambar yang disebut image slider. Selain itu juga terdapat : <br>
 1. Profile Wayang <br>
+Berisi tentang bermacam tokoh wayang yang ada di Indonesia.
 2. Jenis Wayang <br>
+Berisi tentang jenis wayang yangbada di Indonesia seperti contoh wayang golek, wayang kulit dsb.
 3. Cerita Wayang <br>
+Pada cerita wayang akan disuguhkan cerita wayang yang telah banyak dikenal oleh masyarakat.
 4. Video Wayang <br>
+Pada video wayang berisi 1 video beserta ceritanya. <br>
 Tujuan kami membuat aplikasi ini untuk mempermudah kita dalam mencari info seputar wayang di Indonesia.
 
 ### Menu Navigasi 
@@ -37,6 +41,9 @@ Tujuan kami membuat aplikasi ini untuk mempermudah kita dalam mencari info seput
 
 ### About Us
 ![whatsapp image 2016-12-07 at 4 05 19 pm 9](https://cloud.githubusercontent.com/assets/22132634/20963601/a2d3416c-bca0-11e6-9e6c-fb5f7e0c536c.jpeg)
+
+### Link APK
+https://drive.google.com/open?id=0B7B9myqe35ONQndQbGtQZDE5bTA
 
 ## Anggota Kelompok
 1. Arik Nur Khoiriyah <br>
