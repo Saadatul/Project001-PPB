@@ -42,18 +42,25 @@ Tujuan kami membuat aplikasi ini untuk mempermudah kita dalam mencari info seput
 1. Arik Nur Khoiriyah <br>
    XI RPL 6 <br>
    05 <br>
-   4669/1388.070
+   4669/1388.070 <br>
+   ariknk <br>
+   SMK TELKOM MALANG
 2. Jayana Citra Agung Pramu Putra <br>
    XI RPL 6 <br>
    14 <br>
-   4730/1449.070
+   4730/1449.070 <br>
+   jayanacitra99 <br>
+   SMK TELKOM MALANG
 3. Muhammad Gaizka Zaqhariou <br>
    XI RPL 6 <br>
    23 <br>
-   4768/1487.070
+   4768/1487.070 <br>
+   gaizkazaqhariou <br>
+   SMK TELKOM MALANG
 4. Sa'adatul Sholehah <br>
    XI RPL 6 <br>
    32 <br>
    4821/1540.870 <br>
+   saadatul <br>
    SMK TELKOM MALANG
    
