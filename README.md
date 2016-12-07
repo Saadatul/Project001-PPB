@@ -1,9 +1,9 @@
 # Wayangku 
-Wayangku adalah aplikasi yang berisi informasi tentang wayang, yaitu : 
-1. Profile Wayang 
-2. Jenis Wayang
-3. Cerita Wayang
-4. Video Wayang
+Wayangku adalah aplikasi yang berisi informasi tentang wayang, yaitu : <br>
+1. Profile Wayang <br>
+2. Jenis Wayang <br>
+3. Cerita Wayang <br>
+4. Video Wayang <br>
 Tujuan kami membuat aplikasi ini untuk mempermudah kita dalam mencari info seputar wayang di Indonesia.
 
 ### Menu Navigasi 
