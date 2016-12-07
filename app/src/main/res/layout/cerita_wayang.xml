@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <LinearLayout
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
+            android:layout_marginTop="10dp"
         android:orientation="vertical">
 
         <ImageView
@@ -32,4 +38,64 @@
 
     </LinearLayout>
 
-</RelativeLayout>
+        <Button
+            android:id="@+id/buttonM"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/buttonB"
+            android:layout_toLeftOf="@+id/buttonB"
+            android:layout_toStartOf="@+id/buttonB"
+            android:text="Mahabarata" />
+
+        <Button
+            android:id="@+id/buttonB"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearLayout2"
+            android:layout_toLeftOf="@+id/buttonP"
+            android:layout_toStartOf="@+id/buttonP"
+            android:text="Baratayudha" />
+
+        <Button
+            android:id="@+id/buttonP"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/buttonB"
+            android:layout_toRightOf="@+id/linearLayout2"
+            android:text="Pandawa" />
+
+        <Button
+            android:id="@+id/buttonG"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/buttonM"
+            android:layout_toLeftOf="@+id/buttonP"
+            android:layout_toStartOf="@+id/buttonP"
+            android:text="Lahirnya Gatotkaca" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/buttonG"
+            android:layout_alignEnd="@+id/buttonP"
+            android:layout_alignRight="@+id/buttonP"
+            android:layout_below="@+id/buttonP"
+            android:layout_toRightOf="@+id/buttonG"
+            android:text="  . . ."
+            android:textSize="24dp" />
+
+        <TextView
+            android:id="@+id/tvCerita"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/buttonG"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            android:text="CERITA"
+            android:textAlignment="center"
+            android:textSize="14dp" />
+
+
+    </RelativeLayout>
+</ScrollView>

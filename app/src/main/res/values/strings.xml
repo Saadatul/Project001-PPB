@@ -27,5 +27,36 @@
         kekuatan bayi Tetuka. Ia juga meramalkan bahwa kelak Tetuka akan tewas di tangan pemilik
         senjata Konta. </string>
 
+    <string-array name="Mahabarata">
+        Mahabarata adalah sebuah karya sastra kuno yang konon ditulis oleh Bhagawan Byasa atau Wyasa
+        dari India. Buku ini terdiri dari delapan belas kitab, maka dinamakan Astadasaparwa. Namun,
+        ada pula yang meyakini bahwa kisah ini sesungguhnya merupakan kumpulan dari banyak cerita
+        yang semula terpencar-pencar, yang dikumpulkan semenjak abad ke-4 sebelum Masehi. Secara
+        singkat, Mahabharata menceritakan kisah konflik para Pandawa lima dengan saudara sepupu
+        mereka, seratus orang Korawa, mengenai sengketa hak pemerintahan kerajaan Kuru, dengan pusat
+        pemerintahan di Hastinapura. Puncaknya adalah perang Bharatayuddha di Kurukshetra dan
+        pertempuran tersebut berlangsung selama delapan belas hari.
+    </string-array>
+    <string-array name="Baratayudha">
+        Perang Baratayudha, atau lengkapnya Baratayuda Jayabinangun, perang antar darah Barata,
+        merupakan salah satu dari empat perang besar yang telah digariskan dewa dalam pewayangan,
+        selain perang Pamuksa ketika Prabu Pandu menumpas pemberontakan Prabu Trembuku dari
+        Pringgandani dan Perang Gojalisuta, perang saudara anak bapak, antara Prabu Bomantara alias
+        Prabu Sitija, dengan Prabu Kresna dalam membela anaknya yang lainnya Samba Wisnubrata, serta
+        perang
+        Guntarayana ketika Sang Begawan Ciptaning menjadi sraya, atas serangan Raja Hima Imantaka,
+        Prabu Niwatakawaca, yang hendak mempersunting primadona kahyangan Jonggring Salaka, Dewi
+        Supraba.
+        Perang Baratayuda, perang dimana terjadi bagaimana prajurit yang maju menjadi senapati,
+        memetik hasil dari apa yang telah ditanam dan disisi lain meluwar janji yang pernah terucap.
+    </string-array>
+    <string-array name="Pandawa">
+        Banyak sekali karakter pewayangan yang bisa kita jadikan contoh dalam kehidupan sehari-hari,
+        tapi tentunya yang berkarakter baik. baik Pandawa Lima merupakan tokoh yang tidak dapat
+        dipisahkan dengan kisah Mahabarata, karena Pandawa Lima merupakan tokoh sentralnya bersama
+        dengan Kurawa.Pandawa lima adalah sebutan lima bersaudara, putra dari Pandu Dewanata yakni
+        Yudistira, Bima, Arjuna, Nakula dan Sadewa.
+    </string-array>
+
 
 </resources>
