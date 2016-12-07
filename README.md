@@ -27,6 +27,8 @@ Tujuan kami membuat aplikasi ini untuk mempermudah kita dalam mencari info seput
 ![whatsapp image 2016-12-07 at 4 05 19 pm 6](https://cloud.githubusercontent.com/assets/22132634/20962753/39b1ebc8-bc9d-11e6-9a03-9927a0337a9c.jpeg)
 
 ### Cerita Wayang
+![whatsapp image 2016-12-07 at 4 05 19 pm 7](https://cloud.githubusercontent.com/assets/22132634/20963568/7d3d9ff6-bca0-11e6-8ef5-474cf2fe081c.jpeg)
+
 
 ### Video Wayang
 ![whatsapp image 2016-12-07 at 4 05 19 pm 1](https://cloud.githubusercontent.com/assets/22132634/20962447/e735be34-bc9b-11e6-84f9-b103ea47d460.jpeg)
@@ -34,21 +36,24 @@ Tujuan kami membuat aplikasi ini untuk mempermudah kita dalam mencari info seput
 ![whatsapp image 2016-12-07 at 4 05 19 pm 8](https://cloud.githubusercontent.com/assets/22132634/20962449/e769dade-bc9b-11e6-8242-f6226cfe77ca.jpeg)
 
 ### About Us
+![whatsapp image 2016-12-07 at 4 05 19 pm 9](https://cloud.githubusercontent.com/assets/22132634/20963601/a2d3416c-bca0-11e6-9e6c-fb5f7e0c536c.jpeg)
 
 ## Anggota Kelompok
-1. Arik Nur Khoiriyah
-   XI RPL 6
-   05 
+1. Arik Nur Khoiriyah <br>
+   XI RPL 6 <br>
+   05 <br>
    4669/1388.070
-2. Jayana Citra Agung Pramu Putra
-   XI RPL 6
-   14
+2. Jayana Citra Agung Pramu Putra <br>
+   XI RPL 6 <br>
+   14 <br>
    4730/1449.070
-3. Muhammad Gaizka Zaqhariou
-   XI RPL 6
-   23
+3. Muhammad Gaizka Zaqhariou <br>
+   XI RPL 6 <br>
+   23 <br>
    4768/1487.070
-4. Sa'adatul Sholehah
-   XI RPL 6
-   32
-   4821/1540.870 
+4. Sa'adatul Sholehah <br>
+   XI RPL 6 <br>
+   32 <br>
+   4821/1540.870 <br>
+   SMK TELKOM MALANG
+   
